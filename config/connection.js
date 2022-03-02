@@ -8,7 +8,7 @@ module.exports = class Connection {
 	constructor() {
 		this.#host = 'localhost';
 		this.#database = 'and_mutante';
-		this.#user = 'root';
+		this.#user = 'alex';
 		this.#password = 's1st3m2s';
 		this.connection = null;
 	}
