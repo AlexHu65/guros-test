@@ -10,7 +10,9 @@ v14.17.6
 npm install
 
 Se anexa una archivo para base de datos llamado
-and_mutante.js
+and_mutante.sql
+
+Se utilizo una base de datos mysql para generar el dump
 
 ## Ambiente de desarrollo
 Se intalo nodejs, se creo una cuenta para generar en AWS para poder exponer el servicio.
@@ -31,3 +33,7 @@ Anexo la url de aws http://ec2-54-146-143-160.compute-1.amazonaws.com:3000/mutan
 
 El servicio expuesto para los stats es el siguiente
 http://ec2-54-146-143-160.compute-1.amazonaws.com:3000/stats
+
+
+## Creacion del servicio en aws
+![alt text](https://github.com/AlexHu65/guros-test/capturas/Screenshot_2.png)
