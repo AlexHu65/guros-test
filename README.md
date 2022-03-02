@@ -36,4 +36,4 @@ http://ec2-54-146-143-160.compute-1.amazonaws.com:3000/stats
 
 
 ## Creacion del servicio en aws
-![alt text](https://github.com/AlexHu65/guros-test/capturas/Screenshot_2.png)
+![alt text](https://github.com/AlexHu65/guros-test/blob/main/capturas/Screenshot_2.png)
