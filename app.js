@@ -13,6 +13,10 @@ const Connection = require('./config/connection');
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
+app.get('/', (req, res) => {
+	res.send('Hello GUROS! :)');
+})
+
 
 
 app.post('/mutant', (req, res) => {	
