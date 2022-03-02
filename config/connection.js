@@ -9,7 +9,7 @@ module.exports = class Connection {
 		this.#host = 'localhost';
 		this.#database = 'and_mutante';
 		this.#user = 'root';
-		this.#password = '';
+		this.#password = 's1st3m2s';
 		this.connection = null;
 	}
 
