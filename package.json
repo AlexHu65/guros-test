@@ -4,6 +4,7 @@
   "description": "Prueba y desafios fullstack",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manuel Alejandro Chavez Nunez",
